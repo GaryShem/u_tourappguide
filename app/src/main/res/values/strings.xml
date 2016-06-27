@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tour App Guide</string>
+    <string name="red_square_description">Red Square is often considered the central square of Moscow.</string>
+    <string name="red_square_name">Red Square</string>
+    <string name="bolshoi_theatre_name">Bolshoi Theatre</string>
+    <string name="bolshoi_theatre_description">Historic theatre which holds performances of ballet and opera.</string>
+    <string name="moscow_founding_description">First mention of Moscow in historical records</string>
+    <string name="moscow_founding_name">Year 1147</string>
+    <string name="event_capital_description">Moscow becomes the capital of Russia</string>
+    <string name="event_capital_name">Years 1389</string>
+    <string name="event_capital_loss_name">Year 1712</string>
+    <string name="event_capital_loss_description">Moscow loses status of capital to St.Petersburg</string>
+    <string name="event_capital_regain_description">Moscow once again becomes the capital of Russia and USSR</string>
+    <string name="event_capital_regain_name">Year 1918</string>
+    <string name="shop_auchan_name">Auchan</string>
+    <string name="shop_auchan_description">One of the largest French-based shop networks</string>
+    <string name="shop_ikea_description">Large Dutch shop network</string>
+    <string name="shop_ikea_name">IKEA</string>
+    <string name="shop_perekrjostok_name">Perekrjostok</string>
+    <string name="shop_perekrjostok_description">Russian grocery shop network</string>
+    <string name="restaurant_yakitoriya_name">Yakitoriya</string>
+    <string name="restaurant_yakitoriya_description">Large network of Japanese food restaurants</string>
+    <string name="restaurant_papa_johns_description">Pizza restaurants</string>
+    <string name="restaurant_papa_johns_name">Papa Johns</string>
+    <string name="restaurants_hard_rock_cafe_name">Hard Rock Cafe</string>
+    <string name="restaurant_hard_rock_cafe_description">Cozy Rock-themed restaurant</string>
+</resources>
